@@ -1,0 +1,20 @@
+{
+    "name": "clean",
+    "description": "Minimal white theme with clean typography",
+    "colors": {
+        "background": "#FFFFFF",
+        "title": "#1a1a1a",
+        "text": "#333333",
+        "accent": "#0066cc"
+    },
+    "fonts": {
+        "title": "Helvetica-Bold",
+        "heading": "Helvetica-Bold",
+        "body": "Helvetica"
+    },
+    "sizes": {
+        "title": 28,
+        "heading": 24,
+        "body": 14
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "modern_dark",
+    "description": "Dark theme with vibrant accents",
+    "colors": {
+        "background": "#1a1a1a",
+        "title": "#FFFFFF",
+        "text": "#e0e0e0",
+        "accent": "#00d4ff"
+    },
+    "fonts": {
+        "title": "Helvetica-Bold",
+        "heading": "Helvetica-Bold",
+        "body": "Helvetica"
+    },
+    "sizes": {
+        "title": 28,
+        "heading": 24,
+        "body": 14
+    }
+}

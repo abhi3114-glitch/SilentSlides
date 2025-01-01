@@ -1,0 +1,20 @@
+{
+    "name": "professional",
+    "description": "Corporate-style professional theme",
+    "colors": {
+        "background": "#F5F5F5",
+        "title": "#2c3e50",
+        "text": "#34495e",
+        "accent": "#e74c3c"
+    },
+    "fonts": {
+        "title": "Helvetica-Bold",
+        "heading": "Helvetica-Bold",
+        "body": "Helvetica"
+    },
+    "sizes": {
+        "title": 28,
+        "heading": 24,
+        "body": 14
+    }
+}
